@@ -1,6 +1,6 @@
 <p>#Instacart Grocery Basket Analysis</p>
 <p>Project Overview</p>
-<p>This repository contains the SQL queries and Python scripts used for the Instacart Grocery Basket Analysis project. As an analyst, I conducted a comprehensive data and exploratory analysis to uncover insights into sales patterns, customer behaviors, and product popularity.</p>
+<p>This repository contains the Python scripts used for the Instacart Grocery Basket Analysis project. As an analyst, I conducted a comprehensive data and exploratory analysis to uncover insights into sales patterns, customer behaviors, and product popularity.</p>
 <p>Key Focus Areas</p>
 <p>Sales Patterns: Determined the busiest days and hours for optimal ad scheduling.</p>
 <p>Customer Spending Behavior: Analyzed when customers tend to spend the most, informing targeted product advertisements.</p>
